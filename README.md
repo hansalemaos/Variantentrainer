@@ -14,16 +14,15 @@
 </p><br>
 
 
-# Variantentrainer
+# Variantentrainer [DOWNLOAD THE INSTALLER HERE](https://www.dropbox.com/s/1x7o8yikec6qi0v/variantentrainer_setup.exe?dl=0)
 
 
 
 ## What can you do with it?
 
-- Practice German verb derivation (machen - vermachen, anmachen, aufmachen, wegmachen, durchmachen)
+- Practice German verb derivations (e.g. machen - vermachen, anmachen, aufmachen, wegmachen, durchmachen)
 - Train either the infinitives or the conjugated verbs
 - Uses Wikipedia text to generate exercises
-- Output as TXT file
 - No coding required!
 - Download,install and start
 - Source code included!
@@ -35,15 +34,15 @@
 
 | _,.-'``'-.,_,.'`` Step 1 ``'.,_,.-'``'-.,_|Screenshot|
 | -------------------------------------------------------------- |- |
-This app was created to practice the derivates of any German verb.|<img src="28_800x800.png" width="400"/> |
+This app was created to practice the derivations of any German verb.|<img src="28_800x800.png" width="400"/> |
 
 | _,.-'``'-.,_,.'`` Step 2 ``'.,_,.-'``'-.,_|Screenshot|
 | -------------------------------------------------------------- |- |
-Some derivates of the verb "machen" (to make) are for example:<br>vermachen aufmachen wegmachen durchmachen anmachen Let's practice<br>them!|<img src="56_800x800.png" width="400"/> |
+Some derivations of the verb "machen" (to make) are for example:<br>vermachen aufmachen wegmachen durchmachen anmachen Let's practice them!|<img src="56_800x800.png" width="400"/> |
 
 | _,.-'``'-.,_,.'`` Step 3 ``'.,_,.-'``'-.,_|Screenshot|
 | -------------------------------------------------------------- |- |
-Choose if you also want to practice the conjugations / usage as<br>adjective.|<img src="84_800x800.png" width="400"/> |
+Choose if you also want to practice the conjugations / usage as adjective.|<img src="84_800x800.png" width="400"/> |
 
 | _,.-'``'-.,_,.'`` Step 4 ``'.,_,.-'``'-.,_|Screenshot|
 | -------------------------------------------------------------- |- |
