@@ -50,7 +50,7 @@ The app will show you all derivations found.|<img src="112_800x800.png" width="4
 
 | _,.-'``'-.,_,.'`` Step 5 ``'.,_,.-'``'-.,_|Screenshot|
 | -------------------------------------------------------------- |- |
-It goes to some text extracted from Wikipedia to create the exercises.|<img src="140_800x800.png" width="400"/> |
+The apps extracts sentences from Wikipedia to create the exercises.|<img src="140_800x800.png" width="400"/> |
 
 | _,.-'``'-.,_,.'`` Step 6 ``'.,_,.-'``'-.,_|Screenshot|
 | -------------------------------------------------------------- |- |
