@@ -38,7 +38,7 @@ This app was created to practice the derivations of any German verb.|<img src="2
 
 | _,.-'``'-.,_,.'`` Step 2 ``'.,_,.-'``'-.,_|Screenshot|
 | -------------------------------------------------------------- |- |
-Some derivations of the verb "machen" (to make) are for example:<br>vermachen aufmachen wegmachen durchmachen anmachen Let's practice them!|<img src="56_800x800.png" width="400"/> |
+Some derivations of the verb "machen" (to make) are for example:<br>vermachen, aufmachen, wegmachen, durchmachen, anmachen<br> Let's practice them!|<img src="56_800x800.png" width="400"/> |
 
 | _,.-'``'-.,_,.'`` Step 3 ``'.,_,.-'``'-.,_|Screenshot|
 | -------------------------------------------------------------- |- |
@@ -50,7 +50,7 @@ The app will show you all derivations found.|<img src="112_800x800.png" width="4
 
 | _,.-'``'-.,_,.'`` Step 5 ``'.,_,.-'``'-.,_|Screenshot|
 | -------------------------------------------------------------- |- |
-The apps extracts sentences from Wikipedia to create the exercises.|<img src="140_800x800.png" width="400"/> |
+The app extracts sentences from Wikipedia to create the exercises.|<img src="140_800x800.png" width="400"/> |
 
 | _,.-'``'-.,_,.'`` Step 6 ``'.,_,.-'``'-.,_|Screenshot|
 | -------------------------------------------------------------- |- |
